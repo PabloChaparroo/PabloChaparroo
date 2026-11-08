@@ -110,9 +110,9 @@ const engineer = {
 ## 📫 Contacto
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
-  <a href="https://wa.me/TU_NUMERO"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" /></a>
+  <a href="https://www.linkedin.com/in/pablo-chaparro-371b7b369/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+  <a href="mailto:pablobautic15@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+  <a href="https://wa.me/5492614181650"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" /></a>
   <a href="https://inventia.site/"><img src="https://img.shields.io/badge/Inventia-0d1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
 </p>
 
