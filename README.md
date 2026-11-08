@@ -1,9 +1,6 @@
-<img
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-  alt="ilustración de una computadora"
-  width="380px"
-  align="right"
-/>
+<table>
+  <tr>
+    <td valign="middle" width="60%">
 
 <h1 align="left">
   Hola! Yo soy
@@ -22,7 +19,16 @@
 - 📍 Mendoza, Argentina · 🗣️ Español nativo · Inglés B2
 - ⚡ **Open to work**
 
-<br clear="right" />
+    </td>
+    <td valign="middle" align="center" width="40%">
+      <img
+        src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+        alt="ilustración de una computadora"
+        width="360px"
+      />
+    </td>
+  </tr>
+</table>
 
 ```ts
 const engineer = {
