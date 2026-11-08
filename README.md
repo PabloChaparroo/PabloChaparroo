@@ -53,7 +53,7 @@ const engineer = {
   </tr>
   <tr>
     <td align="center"><b>Bases de datos</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Bases de datos" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb&theme=dark" alt="Bases de datos" /></td>
   </tr>
   <tr>
     <td align="center"><b>Herramientas</b></td>
